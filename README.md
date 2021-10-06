@@ -22,7 +22,7 @@ Heart disease has been present in my family for a long time so I know how import
 
 ------
 
-# Summary
+# Overview
 
 The dataset consisted of 14 independent variables and 1 dependent variable (*num*), which describes the predicted class: heart disease. It is not a binary variable, but consists of five digits from 0 to 4. It can be guessed that it describes different stages of heart disease: 0 - none, 1:4 - sick person (*from mild to severe condition*). Among the 14 independent variables, eight of them are of qualitative type, so it will be necessary to use appropriate encoding, which will significantly affect the size of the dataset. 
 
