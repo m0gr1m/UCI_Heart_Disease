@@ -1,5 +1,5 @@
 # UCI Heart Disease Problem
-[link to data](https://www.kaggle.com/redwankarimsony/heart-disease-data)
+
 ><img src="https://i.imgur.com/vtFkSQC.png"  width="200" align="left"> Heart problems can have many different causes: poor diet, obesity, co-morbidities, complications after surgeries, smoking etc. It is worth paying attention to this aspect of our lives and make appropriate changes. To live as long as possible. 
 
 ------
